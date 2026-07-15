@@ -3,8 +3,8 @@
 Secondary School” using machine learning techniques along with field 
 surveys. For better clarification of the different social, economic, and 
 school-related factors related to dropout risk, data were collected from 
-students and their parents, teachers, and the headmaster. After processing 
-the data, a Random Forest model was constructed to predict the possibility 
+students and their parents, teachers, and the headmaster. 
+After processing the data, a Random Forest model was constructed to predict the possibility 
 of student dropout. The results revealed that the main factors included 
 irregular attendance, reduced academic interest, financial hardship, and 
 long distances to reach school. The findings obtained through surveying 
